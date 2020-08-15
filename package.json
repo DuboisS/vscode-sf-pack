@@ -1,0 +1,35 @@
+{
+    "name": "sf-pack",
+    "displayName": "Symfony extensions pack",
+    "description": "A set of useful extensions for symfony developers.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "publisher": "duboiss",
+    "repository": {
+        "url": "https://github.com/DuboisS/vscode-sf-pack"
+    },
+    "bugs": {
+        "url": "https://github.com/DuboisS/vscode-sf-pack/issues"
+    },
+    "keywords": [
+        "pack",
+        "php",
+        "sf pack",
+        "symfony",
+        "twig"
+    ],
+    "icon": "symfony.png",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bmewburn.vscode-intelephense-client",
+        "phproberto.vscode-php-getters-setters",
+        "mikestead.dotenv",
+        "redhat.vscode-yaml",
+        "nadim-vscode.symfony-code-snippets",
+        "TheNouillet.symfony-vscode"
+    ]
+}
