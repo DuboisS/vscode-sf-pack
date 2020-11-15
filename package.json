@@ -2,7 +2,7 @@
     "name": "sf-pack",
     "displayName": "Symfony extensions pack",
     "description": "A set of useful extensions for symfony developers.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -27,9 +27,10 @@
     "extensionPack": [ 
         "bmewburn.vscode-intelephense-client",
         "phproberto.vscode-php-getters-setters",
-        "mikestead.dotenv",
-        "redhat.vscode-yaml",
         "nadim-vscode.symfony-code-snippets",
-        "TheNouillet.symfony-vscode"
+        "nadim-vscode.symfony-super-console",
+        "TheNouillet.symfony-vscode",
+        "mikestead.dotenv",
+        "redhat.vscode-yaml"
     ]
 }
