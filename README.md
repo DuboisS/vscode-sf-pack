@@ -24,6 +24,13 @@ settings.json
         "strings": true
     }
 ```
+### Symfony Console Run All Symfony Commands
+change the console path
+
+settings.json
+```json
+    "superConsole.path": "your console path default is php bin/console"
+```
 
 ## Changelog
 See the [changelog](https://github.com/DuboisS/vscode-sf-pack/blob/master/CHANGELOG.md) for releases notes.
